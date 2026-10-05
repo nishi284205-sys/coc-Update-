@@ -1,0 +1,14 @@
+{
+  "name": "coc-upgrade-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "sync": "npx cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.0",
+    "@capacitor/cli": "^6.1.0",
+    "@capacitor/core": "^6.1.0",
+    "@capacitor/local-notifications": "^6.0.0"
+  }
+}
